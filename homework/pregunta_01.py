@@ -158,4 +158,3 @@ def pregunta_01():
     </html>"""
     with open("docs/index.html","w",encoding="utf-8") as f:
         f.write(html_content)
-pregunta_01()
